@@ -1,0 +1,75 @@
+=====
+Taloc
+=====
+
+Place a marker for the start of the blood storm pools to be placed. When people get Plasma Discharge they need to run to this marked area to drop their blood pools. There will be multiple pools dropped per person so overlap them as much as possible without damaging each other. You can drop pools on top of others if you have a cooldown for it but otherwise don't. Try to leave the actual marker clear for the tank to go to for Cudgel.
+
+Blood patches will last forever but can be cleared when boss reaches full energy. (casts Cudgel of Gore)
+
+Gist: Control spread of blood patches while dodging 1-shot abilities
+
+Everyone-
+Drop pools near the marker
+Run away when boss casts cugdel of gore unless you are the tank
+Keep path between boss and his weapon clear because when he goes to fetch it, it will deal damage to anyone in the way
+
+Phases
+Pre-pull: Place raid marker to drop blood near. put on one side of the room
+60%-35%
+    - drop blood pools from plasma discharge near the raid marker.
+    - as boss approaches 100 energy, raid group should move away for his cudgel of gore cast
+    - drag boss into the blood pools for his Cudgel of Gore cast at full energy (tank should then get out or use a damage reduction CD)
+    - after weapon is dropped, people should keep the line between the boss and his weapon clear (since he will dmg people when he goes to pick it up)
+    - if you are targeted by sanguine static try to face it away from the raid. if you don't have a choice, raid just has to dodge the blood lines.
+    - approaching 60% keep the path from the boss to the middle of the room clear
+35% (boss takes 99% less damage)
+    - Stack up to cause volatile droplet adds to funnel toward group. When they touch someone they will blow up so that person should be a tank.
+    - Coalesced bloods must be tanked by the non-volatile droplet tank. They will spawn blood storms that are similar to plasma discharge. Tank should slowly move across the platform.
+    - when the elevator reaches the bottom, this phase is over. pools will disappear and the adds may or may not die?
+35%-0%
+    - if any adds are up, finish them off (use heroism for this)
+    - same as phase 1 with a larger room
+        - exception: volatile drops will still spawn and just need to be soaked by someone
+
+======
+MOTHER
+======
+Single phase encounter which takes place in 3 different chambers. Move between them before they get filled with cleansing fire.
+
+Tank always keep MOTHER faced away from raid. Dodge her 3 second cast.
+Raid should loosely stack near the boss and spread out to avoid the fire.
+
+Phases
+Pre-pull: Assign 1 tank, 1 healer, and 1 dps with good aoe/stuns/interrupts across together.
+Room 1
+    - Each time people go through the grid, the raid will take damage. Send more dps and healers through as raid health recovers. Roughly 1 healer per 3 dps or so.
+        - Adds will spawn for each person who travels throug the grid.
+    - The last ones through the grid should be the MOTHER tank and one healer.
+    - According to one video, a good time to push them through is after MOTHER's Sanitizing Strike.
+    - DPS in the second room will need to prevent adds from casting via interrupts, stuns, and displacements.
+Room 2
+    - After the boss passes through, we get LASERS. You need to stand in the safety gaps as they will effectively 1 shot you.
+    - When the raid is healthy you will need to send people into the third room exactly like you did before.
+Room 3
+    - Everything same as previous room except there is no Room 4.
+    - Heroism in this room as MOTHER will take double damage.
+
+==============
+FETID DEVOURER
+==============
+
+Phases
+Pre-pull: Mark spot for boss to be tanked at
+Start
+    - Main Tank should pull boss between back two pillars
+        - Tank should offset the knockback with charge abilities or something so the boss does not move
+    - Melee can be against a pillar and don't get knocked back.
+    - Ranged wanted to be against any wall to not get knocked back.
+    - Offtank needs to stand on the main tank so they can soak the cleave hit (every 4th melee attack).
+    - Random players will get a light debuff which when it expires will become a very shitty debuff that needs direct spot heals
+    - Blob adds will spawn is two different alcoves. Melee should get the blob closest to boss, ranged get the other one
+        - No one should be in these alcoves before the blobs spawn because when they spawn it does a lot of damage.
+    - avoid boss's cone attack at full energy
+50% - Boss starts dealing 25% more damage and takes 50% more damage.
+    - Heroism!
+    - Players will debuff and offtank will take big damage
